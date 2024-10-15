@@ -13,6 +13,7 @@ import "@rainbow-me/rainbowkit/styles.css";
 import "@/styles/simplebar.min.css";
 import "@/styles/globals.css";
 import { GTag } from "@/components/Gtag";
+import '@picocss/pico'
 
 export default function App({
   Component,
